@@ -19,13 +19,13 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ServiceReservasi/Service1/mex" Protocol="mex" SourceId="1" />
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ServiceReservasi/Service1/mex/mex" Protocol="mex" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="b9f01eb9-94f8-4dac-b629-68d965ddc37e" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceReservasi/Service1/mex" />
-    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="127eff85-21cd-44df-8266-185aaab68e64" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceReservasi/Service1/mex" />
-    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="ed8ac640-f791-4bee-9f32-77978405411e" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceReservasi/Service1/mex" />
-    <MetadataFile FileName="ServiceReservasi.xsd" MetadataType="Schema" ID="5ef133c3-8b76-4a39-9c89-c343f75b4e03" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceReservasi/Service1/mex" />
+    <MetadataFile FileName="service1.wsdl" MetadataType="Wsdl" ID="3655e0da-4220-49f3-87f4-ff67c8ce121c" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceReservasi/Service1/mex/mex" />
+    <MetadataFile FileName="service2.xsd" MetadataType="Schema" ID="ccda0f87-63b5-4d0e-9b27-eb8845b0772a" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceReservasi/Service1/mex/mex" />
+    <MetadataFile FileName="service21.xsd" MetadataType="Schema" ID="3fab194c-0253-41aa-9195-382f0eac268f" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceReservasi/Service1/mex/mex" />
+    <MetadataFile FileName="ServiceReservasi1.xsd" MetadataType="Schema" ID="3113fb85-5996-4277-a299-3bab765cab06" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceReservasi/Service1/mex/mex" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
